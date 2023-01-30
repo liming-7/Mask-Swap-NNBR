@@ -1,0 +1,8 @@
+hidden_size: 64
+inner_size: 256
+n_layers: 2
+n_heads: 8
+dropout_prob: 0.1
+hidden_act: gelu
+layer_norm_eps: 1.0e-12
+initializer_range: 0.02
